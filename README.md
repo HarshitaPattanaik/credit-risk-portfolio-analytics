@@ -25,7 +25,7 @@ An enterprise-grade analytical solution designed to model loan portfolio perform
    * **Risk Grade Donut Chart:** Visualized portfolio exposure breakdown across risk grades A through E.
    * **Delinquency Breakdown Chart:** Mapped financial exposure across DPD buckets stacked by risk tiers.
    * **Cross-Tabulation Matrix:** Developed a matrix cross-referencing risk grades against delinquency buckets featuring green-to-red conditional formatting and full cross-highlighting.
-
+![Power BI Dashboard Preview](assests/dashboard.png)
 ---
 
 ## 📂 Repository Structure
